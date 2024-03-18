@@ -1,0 +1,10 @@
+## 
+POST http://localhost:3333/api/users HTTP/2.0
+content-type: application/json
+
+{
+   "email": "willianleman@gmail.com",
+   "password": "pass123",
+   "name": "Willian leman"
+}
+
